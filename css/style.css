@@ -5,7 +5,15 @@
 
 
 #portifolio .divisor {
-    background: #07eecf
+    background: #07eecf;
     width: 100px;
     height: 3px;
+}
+
+.mr-top{
+    margin-top: 100px;
+}
+
+.margin-top {
+    margin-top: 10px;
 }
